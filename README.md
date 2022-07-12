@@ -12,8 +12,8 @@ Desafio que fiz: [WiseGoat](https://devchallenge.vercel.app/challenges/5f14f8d51
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/joaodiazz/NFT_preview_card)
-- Live Site URL: [GitHub Pages](https://joaodiazz.github.io/NFT_preview_card/)
+- Solution URL: [Repository](https://github.com/joaodiazz/wise-goat)
+- Live Site URL: [GitHub Pages](https://joaodiazz.github.io/wise-goat/)
 
 ### Built with
 
